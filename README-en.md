@@ -46,6 +46,10 @@ Access this [**link**](/img/) to view all photos from my participation.
 
 ![Roundtable 3](img/mesa-redonda-04.jpg)
 
+![Roundtable 4](img/mesa-redonda-05.png)
+
+![Roundtable 5](img/mesa-redonda-06.png)
+
 ![End of event 1](img/final-08.jpeg)
 
 ![End of event 2](img/final-03.jpg)
