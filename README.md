@@ -34,6 +34,8 @@ No Instagram: [**Divulgação**](https://www.instagram.com/p/DW1slYNEoLy/)
 
 Local: **Microsoft Brasil - Avenida Presidente Juscelino Kubitscheck, 1909 Torre Sul, 16° andar - Vila Nova Conceição - São Paulo - SP - CEP: 04543-907**
 
+Deixo aqui meus agradecimentos ao **Rafael dos Santos**, ao **Talles Valiatti**, ao **Otavio Naimeke** e toda a equipe **AzureBrasil.cloud** pela oportunidade em participar deste evento.
+
 Acesse este [**link**](/img/) para visualizar todas as fotos da minha participação.
 
 ---
