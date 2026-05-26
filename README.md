@@ -16,3 +16,9 @@ Data: **15/05/2026 (sexta-feira)**
 Tecnologias e tópicos abordados: **Inteligência Artificial, Desenvolvimento de Software, MCPs, LLMs, GitHub Copilot, Claude, Microsoft Foundry, Containers, Docker, npm, Nuget...**
 
 Número de participantes: **140 pessoas**
+
+---
+
+![Instagram](img/instagram-01.png)
+
+![Programação](img/programacao-01.png)
