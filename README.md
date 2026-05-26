@@ -13,11 +13,28 @@ Nome do treinamento: **Azure AI Training Session**
 
 Data: **15/05/2026 (sexta-feira)**
 
-Tecnologias e tópicos abordados: **Inteligência Artificial, Desenvolvimento de Software, MCPs, LLMs, GitHub Copilot, Claude, Microsoft Foundry, Containers, Docker, npm, Nuget...**
+Tecnologias e tópicos abordados: **Inteligência Artificial, Desenvolvimento de Software, MCPs, LLMs, GitHub Copilot, Claude, Microsoft Foundry, .NET, C#, ASP.NET Core, Microsoft Azure, Containers, Docker, npm, Nuget...**
 
 Número de participantes: **140 pessoas**
 
+Participantes:
+- **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador, MTAC)**
+- **Milton Camara Gomes (Microsoft MVP, MTAC)**
+- **Bruno Bito (Microsoft MVP, Docker Captain)**
+- **Carlos Machel (Microsoft MVP)**
+- **Gustavo Bigardi (Microsoft MVP)**
+- **Felipe Faria (AzureBrasil.cloud)**
+- **Carlos Irutan (AzureBrasil.cloud)**
+
+Moderadores: **Talles Valiatti (Microsoft MVP)**
+
 ---
+
+![Mesa redonda 1](img/mesa-redonda-02.jpg)
+
+![Mesa redonda 2](img/mesa-redonda-01.png)
+
+![Mesa redonda 3](img/mesa-redonda-04.png)
 
 ![Instagram](img/instagram-01.png)
 
