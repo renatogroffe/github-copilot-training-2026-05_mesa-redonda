@@ -5,8 +5,6 @@ O evento no LinkedIn: [**Programação**](https://www.linkedin.com/posts/azbrgit
 
 No Instagram: [**Divulgação**](https://www.instagram.com/p/DW1slYNEoLy/)
 
-140 pessoas
-
 ---
 
 ## Informações sobre esta atividade
@@ -16,3 +14,5 @@ Nome do treinamento: **Azure AI Training Session**
 Data: **15/05/2026 (sexta-feira)**
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, Desenvolvimento de Software, MCPs, LLMs, GitHub Copilot, Claude, Microsoft Foundry, Containers, Docker, npm, Nuget...**
+
+Número de participantes: **140 pessoas**
