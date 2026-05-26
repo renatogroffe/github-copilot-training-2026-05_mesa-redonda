@@ -46,6 +46,10 @@ Acesse este [**link**](/img/) para visualizar todas as fotos da minha participa√
 
 ![Mesa redonda 3](img/mesa-redonda-04.jpg)
 
+![Mesa redonda 4](img/mesa-redonda-05.png)
+
+![Mesa redonda 5](img/mesa-redonda-06.png)
+
 ![Final do evento 1](img/final-08.jpeg)
 
 ![Final do evento 2](img/final-03.jpg)
