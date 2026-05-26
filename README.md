@@ -9,7 +9,9 @@ No Instagram: [**Divulgação**](https://www.instagram.com/p/DW1slYNEoLy/)
 
 ## Informações sobre esta atividade
 
-Nome do treinamento: **Azure AI Training Session**
+Descrição: **Mesa Redonda sobre Inteligência Artificial e Produtividade no Desenvolvimento de Software**
+
+Evento: **GitHub Copilot Training**
 
 Data: **15/05/2026 (sexta-feira)**
 
@@ -20,9 +22,11 @@ Número de participantes: **140 pessoas**
 Participantes:
 - **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador, MTAC)**
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
-- **Bruno Bito (Microsoft MVP, Docker Captain)**
+- **Bruno Brito (Microsoft MVP, Docker Captain)**
 - **Carlos Machel (Microsoft MVP)**
 - **Gustavo Bigardi (Microsoft MVP)**
+- **Thamirys Gameiro (Microsoft MVP)**
+- **Alison Pezzott (Microsoft MVP)**
 - **Felipe Faria (AzureBrasil.cloud)**
 - **Carlos Irutan (AzureBrasil.cloud)**
 
