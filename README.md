@@ -32,7 +32,7 @@ O evento no LinkedIn: [**Programação**](https://www.linkedin.com/posts/azbrgit
 
 No Instagram: [**Divulgação**](https://www.instagram.com/p/DW1slYNEoLy/)
 
-Local: **Avenida Presidente Juscelino Kubitscheck, 1909 Torre Sul, 16° andar - Vila Nova Conceição - São Paulo - SP - CEP: 04543-907**
+Local: **Microsoft Brasil - Avenida Presidente Juscelino Kubitscheck, 1909 Torre Sul, 16° andar - Vila Nova Conceição - São Paulo - SP - CEP: 04543-907**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos da minha participação.
 
@@ -43,6 +43,10 @@ Acesse este [**link**](/img/) para visualizar todas as fotos da minha participa�
 ![Mesa redonda 2](img/mesa-redonda-01.png)
 
 ![Mesa redonda 3](img/mesa-redonda-04.jpg)
+
+![Final do evento 1](img/final-08.jpeg)
+
+![Final do evento 2](img/final-03.jpg)
 
 ![Instagram](img/instagram-01.png)
 
